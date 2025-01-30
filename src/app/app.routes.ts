@@ -1,7 +1,6 @@
 import { Routes } from '@angular/router';
 import { canMatchFeature } from '@shared';
 import { HomeComponent } from './pages/home.component';
-import books from '../mocks/books';
 
 export const routes: Routes = [
   {
